@@ -15,6 +15,9 @@ Matériel pédagogique
 
 Leçons
 ------
+**Introduction**
+ - [Histoire de la pensée macroéconomique](Cours/ECN7055_Intro.pdf)
+
 **I Marchés complets**
   - [Cycles conjoncturels réels](Cours/I_Marches_complets/ECN7055_I_1.pdf)
     - Modèle RBC, calibration, équilibrium competitifs récursifs
