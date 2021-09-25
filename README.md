@@ -1,5 +1,5 @@
 # Macro_PhD_cours
-Cours de macroéconomie de première année de doctorat, deuxième semestre.
+Cours de macroéconomie, deuxième semestre de première année de doctorat.
 
 Description du cours
 --------------------
