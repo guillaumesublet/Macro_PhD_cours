@@ -19,39 +19,18 @@ Leçons
  - [Histoire de la pensée macroéconomique](Cours/ECN7055_Intro.pdf)
 
 **I Marchés complets**
-  - [Cycles conjoncturels réels](Cours/I_Marches_complets/ECN7055_I_1.pdf)
-    - Modèle RBC, calibration, équilibrium competitifs récursifs
-    - K Chapitres 1 à 11; LS Chapitres 3, 4, 7, 8, 12; SLP Chapitres 2, 3
-  -	Méthodes numériques: Itération fonction valeur, Equation d’Euler, Grille endogène
-    - QuantEcon « Dynamic Programming »
-  - Comptabilité de la croissance
-  - Comptabilité des cycles conjoncturels
-	  -	Brinca P., V.V. Chari et E. McGrattan (2016) “Accounting for Business Cycles”, Chapitre 13, Handbook of Macroeconomics, Vol 2
-	  -	Chari, V.V., P.J. Kehoe and E. McGrattan (2002) ‘‘Accounting for the Great Depression’’ AER P&P
-  - Marchés financiers et évaluation des actifs
-	  - LS Chapitre 8 et 13
+  1. [Cycles conjoncturels réels](Cours/I_Marches_complets/ECN7055_I_1.pdf)
+  2. [Méthodes numériques: Itération fonction valeur, Equation d’Euler, Grille endogène](Cours/I_Marches_complets/ECN7055_I_2.pdf)
+  3. [Comptabilité de la croissance](Cours/I_Marches_complets/ECN7055_I_3.pdf)
+  4. [Comptabilité des cycles conjoncturels](Cours/I_Marches_complets/ECN7055_I_4.pdf)
+  5. [Marchés financiers et évaluation des actifs](Cours/I_Marches_complets/ECN7055_I_5.pdf)
   
 **II Marchés incomplets et hétérogénéité des agents**
-  - Agrégation
-    - Chapitre 4 de Mas-Colell Whinston et Green (1995) «Microeconomic Theory»
-    - Guvenen (2011) “Macroeconomics with Heterogeneity: A Pratical Guide” Economics Quarterly
-  - Risques particuliers sur le marché du travail
-	  - LS Chapitre 18, 
-    - Ayagari, S. R. (1994), “Uninsured Idiocyncratic Risk and Aggregate Saving” Quarterly Journal of Economics 109(3) 
-    - QuantEcon « The Aiyagari Model »
-  - Risques particuliers sur le marché du capital
-    - George-Marios Angeletos, 2007. "Uninsured Idiosyncratic Investment Risk and Aggregate Saving" Review of Economic Dynamics
-  - Optimal social
-    - Davila Hong Krussell Rios-Rull (2012) “Constrained Efficiency in the Neoclassical Growth Model with Uninsurable Idiosyncratic Shocks” Econometrica
-  - Risque global et marchés incomplets endogènes
-    -	Krusell P. and Smith A. (1998) “Income and Wealth Heterogeneity in the Macroeconomy” Journal of Political Economy 
-    -	Bianchi Javier, (2011) “Overborrowing and Systemic Externalities in the Business Cycle” American Economic Review
-    -	Kehoe T.J. and D. K. Levine (1993) “Debt-Constrained Asset Markets” Review of Economic Studies
+  1. [Agrégation](Cours/II_Marchés_incomplets/ECN7055_II_1.pdf)
+  2. [Risques particuliers sur le marché du travail](Cours/II_Marchés_incomplets/ECN7055_II_2.pdf)
+  3. [Risques particuliers sur le marché du capital](Cours/II_Marchés_incomplets/ECN7055_II_3.pdf)
+  4. [Optimal social](Cours/II_Marchés_incomplets/ECN7055_II_4.pdf)
 
 **III Politique économique**
-  - Politique fiscale et budgétaire: approche de Ramsey
-    - Lucas Stokey. “Optimal Fiscal and Monetary Policy in an Economy Without Capital” Journal of Monetary Economics
-    - Kocherlakota, N. The New Dynamic Public Finance, 2010, Chapitre 2
-    - QuantEcon « Optimal taxation in an LQ Economy » 
-  - Politique monétaire: modèle néo-keynesien
-    - G Chapitres 2, 3, 4
+  1. [Politique fiscale et budgétaire: approche de Ramsey](Cours/III_Politique économique/ECN7055_III_1.pdf)
+  2. [Politique monétaire: modèle néo-keynesien](Cours/III_Politique économique/ECN7055_III_2.pdf)
