@@ -30,6 +30,9 @@ Leçons
   2. [Risques particuliers sur le marché du travail](Cours/II_Marchés_incomplets/ECN7055_II_2.pdf)
   3. [Risques particuliers sur le marché du capital](Cours/II_Marchés_incomplets/ECN7055_II_3.pdf)
   4. [Optimal social](Cours/II_Marchés_incomplets/ECN7055_II_4.pdf)
+  <!---
+  5. Risque global et marchés incomplets endogènes
+  -->
 
 **III Politique économique**
   1. [Politique fiscale et budgétaire: approche de Ramsey](Cours/III_Politique_économique/ECN7055_III_1.pdf)
