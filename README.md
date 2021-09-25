@@ -16,7 +16,7 @@ Matériel pédagogique
 Leçons
 ------
 **Introduction**
- - [Histoire de la pensée macroéconomique](Cours/ECN7055_Intro.pdf)
+ [Histoire de la pensée macroéconomique](Cours/ECN7055_Intro.pdf)
 
 **I Marchés complets**
   1. [Cycles conjoncturels réels](Cours/I_Marches_complets/ECN7055_I_1.pdf)
