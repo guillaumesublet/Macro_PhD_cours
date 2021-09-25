@@ -35,15 +35,15 @@ Leçons
   - Agrégation
     - Chapitre 4 de Mas-Colell Whinston et Green (1995) «Microeconomic Theory»
     - Guvenen (2011) “Macroeconomics with Heterogeneity: A Pratical Guide” Economics Quarterly
-	- Risques particuliers sur le marché du travail
+  - Risques particuliers sur le marché du travail
 	  - LS Chapitre 18, 
     - Ayagari, S. R. (1994), “Uninsured Idiocyncratic Risk and Aggregate Saving” Quarterly Journal of Economics 109(3) 
     - QuantEcon « The Aiyagari Model »
   - Risques particuliers sur le marché du capital
     - George-Marios Angeletos, 2007. "Uninsured Idiosyncratic Investment Risk and Aggregate Saving" Review of Economic Dynamics
-	- Optimal social
-	  - Davila Hong Krussell Rios-Rull (2012) “Constrained Efficiency in the Neoclassical Growth Model with Uninsurable Idiosyncratic Shocks” Econometrica
-  -	Risque global et marchés incomplets endogènes
+  - Optimal social
+    - Davila Hong Krussell Rios-Rull (2012) “Constrained Efficiency in the Neoclassical Growth Model with Uninsurable Idiosyncratic Shocks” Econometrica
+  - Risque global et marchés incomplets endogènes
     -	Krusell P. and Smith A. (1998) “Income and Wealth Heterogeneity in the Macroeconomy” Journal of Political Economy 
     -	Bianchi Javier, (2011) “Overborrowing and Systemic Externalities in the Business Cycle” American Economic Review
     -	Kehoe T.J. and D. K. Levine (1993) “Debt-Constrained Asset Markets” Review of Economic Studies
@@ -54,4 +54,4 @@ Leçons
     - Kocherlakota, N. The New Dynamic Public Finance, 2010, Chapitre 2
     - QuantEcon « Optimal taxation in an LQ Economy » 
   - Politique monétaire: modèle néo-keynesien
-	  - G Chapitres 2, 3, 4
+    - G Chapitres 2, 3, 4
