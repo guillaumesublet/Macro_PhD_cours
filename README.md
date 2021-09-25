@@ -32,5 +32,5 @@ Leçons
   4. [Optimal social](Cours/II_Marchés_incomplets/ECN7055_II_4.pdf)
 
 **III Politique économique**
-  1. [Politique fiscale et budgétaire: approche de Ramsey](Cours/III_Politique économique/ECN7055_III_1.pdf)
-  2. [Politique monétaire: modèle néo-keynesien](Cours/III_Politique économique/ECN7055_III_2.pdf)
+  1. [Politique fiscale et budgétaire: approche de Ramsey](Cours/III_Politique_économique/ECN7055_III_1.pdf)
+  2. [Politique monétaire: modèle néo-keynesien](Cours/III_Politique_économique/ECN7055_III_2.pdf)
