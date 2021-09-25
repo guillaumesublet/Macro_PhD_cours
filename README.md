@@ -11,7 +11,7 @@ Matériel pédagogique
   - (LS) Ljundqvist, L. et T. J. Sargent (2018), Recursive Macroeconomic Theory, 4th edition, MIT Press. 
   - (G) Gali, J. (2015), Monetary Policy, Inflation and the Business Cycle, 2nd edition, Princeton University Press. 
   - (QE) T. J. Sargent et J. Stachurski, Quantitative Economics ([QuantEcon](https://python.quantecon.org)). 
-  - (K) Krueger D. (2007) Quantitative Macroeconomics : An Introduction (disponible sur StudiUM et en ligne).
+  - (K) Krueger D. (2007) Quantitative Macroeconomics : An Introduction (disponible sur StudiUM).
 
 Leçons
 ------
