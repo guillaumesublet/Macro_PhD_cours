@@ -53,5 +53,5 @@ Leçons
     - Lucas Stokey. “Optimal Fiscal and Monetary Policy in an Economy Without Capital” Journal of Monetary Economics
     - Kocherlakota, N. The New Dynamic Public Finance, 2010, Chapitre 2
     - QuantEcon « Optimal taxation in an LQ Economy » 
-  - Politique monétaire
+  - Politique monétaire: modèle néo-keynesien
 	  - G Chapitres 2, 3, 4
