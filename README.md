@@ -38,4 +38,5 @@ Leçons
 
 **III Politique économique**
   1. [Politique fiscale et budgétaire: approche de Ramsey](Cours/III_Politique_économique/ECN7055_III_1.pdf)
-  2. [Politique monétaire: modèle néo-keynesien](Cours/III_Politique_économique/ECN7055_III_2.pdf)
+  2. [Politique monétaire: modèle néo-keynesien](Cours/III_Politique_économique/ECN7055_III_2_Politique_monetaire.pdf)
+
