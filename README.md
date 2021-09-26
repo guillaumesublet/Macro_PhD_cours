@@ -26,10 +26,12 @@ Leçons
   5. [Marchés financiers et évaluation des actifs](Cours/I_Marches_complets/ECN7055_I_5.pdf)
   
 **II Marchés incomplets et hétérogénéité des agents**
+  <!---
   1. [Agrégation](Cours/II_Marchés_incomplets/ECN7055_II_1.pdf)
-  2. [Risques particuliers sur le marché du travail](Cours/II_Marchés_incomplets/ECN7055_II_2.pdf)
-  3. [Risques particuliers sur le marché du capital](Cours/II_Marchés_incomplets/ECN7055_II_3.pdf)
-  4. [Optimal social](Cours/II_Marchés_incomplets/ECN7055_II_4.pdf)
+  -->
+  1. [Risques particuliers sur le marché du travail](Cours/II_Marchés_incomplets/ECN7055_II_2.pdf)
+  2. [Risques particuliers sur le marché du capital](Cours/II_Marchés_incomplets/ECN7055_II_3.pdf)
+  3. [Optimal social](Cours/II_Marchés_incomplets/ECN7055_II_4.pdf)
   <!---
   5. Risque global et marchés incomplets endogènes
   -->
