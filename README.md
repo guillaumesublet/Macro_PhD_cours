@@ -20,7 +20,7 @@ Leçons
 
 **I Marchés complets**
   1. [Cycles conjoncturels réels](Cours/I_Marches_complets/ECN7055_I_1.pdf)
-  2. [Méthodes numériques: Itération fonction valeur, Equation d’Euler, Grille endogène](Cours/I_Marches_complets/ECN7055_I_2.pdf)
+  2. [Méthodes numériques](Cours/I_Marches_complets/ECN7055_I_2.pdf)
   3. [Comptabilité de la croissance](Cours/I_Marches_complets/ECN7055_I_3.pdf)
   4. [Comptabilité des cycles conjoncturels](Cours/I_Marches_complets/ECN7055_I_4.pdf)
   5. [Marchés financiers et évaluation des actifs](Cours/I_Marches_complets/ECN7055_I_5.pdf)
