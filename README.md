@@ -3,7 +3,7 @@ Cours de macroéconomie, deuxième semestre de première année de doctorat.
 
 Description du cours
 --------------------
-L’objectif de ce cours est de donner aux étudiants les outils de recherche en macroéonomie moderne. Une première partie traite des fondements de l’analyse quantitative en macroéconomie avec l’étude du modèle des cycles conjoncturels réels (RBC), de la calibration, de méthodes numériques, de la comptabilité de la croissance, et de la comptabilité des cycles conjoncturels (BCA). Une deuxième partie introduit les marchés incomplets et les fondements de l’analyse quantitative en macroéconomie avec agents hétérogènes. Une troisième partie traite de l'élaboration de politiques economiques budgétaires et monétaires optimales.
+L’objectif de ce cours est de donner aux étudiants les outils de recherche en macroéonomie moderne. Une première partie traite des fondements de l’analyse quantitative en macroéconomie avec l’étude du modèle des cycles conjoncturels réels (RBC), de la calibration, de méthodes numériques, de la comptabilité de la croissance, et de la comptabilité des cycles conjoncturels (BCA). Une deuxième partie introduit les marchés incomplets et les fondements de l’analyse quantitative en macroéconomie avec agents hétérogènes. Une troisième partie traite de l'élaboration de politiques économiques budgétaires et monétaires optimales.
 
 Matériel pédagogique
 --------------------
