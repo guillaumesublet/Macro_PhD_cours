@@ -7,7 +7,7 @@ L’objectif de ce cours est de donner aux étudiants les outils de recherche en
 
 Matériel pédagogique
 --------------------
-  - (SLP) Stockey, N. et R. Lucas, Recursive Methods in Economic Dynamics, Harvard University Press, 1989. 
+  - (SLP) Stockey, N. et R. Lucas (1989), Recursive Methods in Economic Dynamics, Harvard University Press. 
   - (LS) Ljundqvist, L. et T. J. Sargent (2018), Recursive Macroeconomic Theory, 4th edition, MIT Press. 
   - (G) Gali, J. (2015), Monetary Policy, Inflation and the Business Cycle, 2nd edition, Princeton University Press. 
   - (QE) T. J. Sargent et J. Stachurski, Quantitative Economics ([QuantEcon](https://python.quantecon.org)). 
